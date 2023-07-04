@@ -1,0 +1,7 @@
+{
+"version": 3,
+
+"sources": ["../sass/style.scss","../sass/bootstrap/mixins/_vendor-prefixes.scss","../sass/bootstrap/_variables.scss"],
+"names": [],
+"file": "style.css"
+}
